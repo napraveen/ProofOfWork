@@ -1,4 +1,4 @@
-# ⚡ ProofOfWork
+# ProofOfWork
 
 **Earn your dopamine. Lock distractions behind verified code.**
 
